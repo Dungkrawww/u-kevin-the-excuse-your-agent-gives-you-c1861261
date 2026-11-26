@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """The Excuse Your Agent Gives You.
 
-Writes one line (94 characters) to /output/entry.txt
+Writes one line (91 characters) to /output/entry.txt
 (or $MAKEFUN_OUTPUT_DIR/entry.txt): the excuse an AI agent
 hands its human after shipping a bug.
 """
